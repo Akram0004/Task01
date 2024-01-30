@@ -33,5 +33,8 @@ git clone https://github.com/
 • Run the index.html file
 
 • Start Playing!!!
+
 DEMO
-file:///C:/Users/mgakr/OneDrive/Documents/index.html
+ copy and paste the link in your browser 
+ 
+[file:///C:/Users/mgakr/OneDrive/Documents/index.html](url)
