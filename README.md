@@ -35,6 +35,7 @@ git clone https://github.com/
 • Start Playing!!!
 
 DEMO
+
  copy and paste the link in your browser 
- 
-[file:///C:/Users/mgakr/OneDrive/Documents/index.html](url)
+
+ file:///C:/Users/mgakr/OneDrive/Documents/index.html
