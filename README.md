@@ -38,4 +38,4 @@ DEMO
 
  copy and paste the link in your browser 
 
- file:///C:/Users/mgakr/OneDrive/Documents/index.html
+ https://chess-game-taupe.vercel.app/
