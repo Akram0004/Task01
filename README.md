@@ -34,8 +34,3 @@ git clone https://github.com/
 
 • Start Playing!!!
 
-DEMO
-
- copy and paste the link in your browser 
-
- https://chess-game-taupe.vercel.app/
