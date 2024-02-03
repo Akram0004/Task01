@@ -1,5 +1,5 @@
 
-Chess Game
+# Chess Game
 
 A Chess Game written in HTML, CSS and JAVASCRIPT.
 
@@ -7,14 +7,7 @@ Use of the Project:
 
 This chess game is just for entertainment purpose.
 
-Used Technologies
-
-• HTML5
-
-• CSS3
-
-• JavaScript
-Used Technologies
+# Used Technologies
 
 • HTML5
 
@@ -22,7 +15,8 @@ Used Technologies
 
 • JavaScript
 
-Steps to Use:
+
+# Steps to Use:
 
 • Download or clone the repository
 
